@@ -1,0 +1,15 @@
+{
+  "mainEntryPointFilePath": "dist/import.d.ts",
+
+  "apiReport": {
+    "enabled": true
+  },
+
+  "docModel": {
+    "enabled": true
+  },
+
+  "dtsRollup": {
+    "enabled": true
+  }
+}

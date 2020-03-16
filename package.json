@@ -1,0 +1,14 @@
+{
+  "name": "api-extractor-bug-import-type",
+  "version": "1.0.0",
+  "description": "Test case for api-extractor",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc && api-extractor run --local"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.7.8",
+    "typescript": "^3.8.3"
+  }
+}
